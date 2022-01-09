@@ -19,8 +19,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Single Engine Land</ListTitle>
           <ListParagraph>
-            Favorite aircraft acting PIC <br />
-            Dh2 beaver
+            Favorite aircraft PIC <br />
+            DHC-2 Beaver
           </ListParagraph>
         </ListContainer>
       </ListItem>
