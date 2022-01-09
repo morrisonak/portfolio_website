@@ -6,7 +6,7 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Ratings</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the web development world.
       From Back-end To Design
@@ -17,10 +17,10 @@ const Technologies = () =>  (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Single Engine Land</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            Favorite aircraft acting PIC <br />
+            Dh2 beaver
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,10 +29,10 @@ const Technologies = () =>  (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Single Engine Sea</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Favorite Float PIC <br />
+            PA-11 no electrical system
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Next rating sought</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Instrument <br />
+            Glider
           </ListParagraph>
         </ListContainer>
       </ListItem>

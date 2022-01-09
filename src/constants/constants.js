@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2004, text: 'Started Railroad Career with Alaska Railroad', },
+  { year: 2007, text: 'Started flight Training', },
+  { year: 2008, text: 'Earned private pilot certificate', },
+  { year: 2012, text: 'Started with Union Pacific', },
+  { year: 2020, text: 'Started with Capital Metro', },
 ];
