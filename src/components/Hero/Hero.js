@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        Currently employed as a project manager at a public agency.  Seeking a start in the technology field.      
+        Currently employed as a project manager. <br /> Seeking a start in the technology field.      
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>

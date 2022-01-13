@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Bring GCIS database into compliance',
-    description: "I was tasked with bringing a out of compliance database back up to federal requirements.  All at grade road crossings were verified and updated as needed.  This database has since past multiple federal audits.",
+    description: "Assigned responsibility of the Grade Crossing Inventory System database. All at grade road crossings on Capital Metro track were verified and updated as needed. This database has since passed multiple Federal Railroad administration audits.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Contract monitoring and oversight of third party maintenance contractors',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "Involved in the daily operation of commuter rail service.  Seeking overall reduction in service failures and train delays.",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'QA QC for new design and improvements',
-    description: "Proccessed incoming submittals, transmittals and RFI's in support of the Capital Projects group.  Verified proposed designs and proposed changes complied with agency requirements.",
+    description: "Proccessed incoming submittals, transmittals and RFI's in support of the Capital Projects group and department projects.  Verified proposed designs and changes complied with agency requirements.",
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
     visit: 'https://google.com',
