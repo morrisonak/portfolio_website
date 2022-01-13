@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiBackbone, BiTrendingUp, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Ratings</SectionTitle>
     <SectionText>
-      One rating is never enough
+      One rating is never enough.
     </SectionText>
     <List>
       <ListItem>
@@ -18,8 +18,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Single Engine Land</ListTitle>
           <ListParagraph>
-            Favorite aircraft PIC <br />
-            DHC-2 Beaver
+            Favorite PIC <br />
+            DHC-2
           </ListParagraph>
         </ListContainer>
       </ListItem>

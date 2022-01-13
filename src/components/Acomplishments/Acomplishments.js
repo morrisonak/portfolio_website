@@ -6,8 +6,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { number: 348, text: 'Total Time'},
   { number: 267, text: 'PIC', },
-  { number: 17, text: 'unique aircraft types in logbook', },
-  { number: 34, text: 'unique airports', }
+  { number: 17, text: 'unique aircraft in logbook', },
+  { number: 31, text: 'unique airports', }
 ];
 
 const Acomplishments = () => (

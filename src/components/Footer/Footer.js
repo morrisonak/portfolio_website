@@ -8,13 +8,10 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
-        <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:314-343-3432">555-555-5555</LinkItem>
-        </LinkColumn>
+        
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
+          <LinkItem href="mailto:morrisonak@yahoo.com">
             morrisonak@yahoo.com
           </LinkItem>
         </LinkColumn>
@@ -24,13 +21,13 @@ const Footer = () => {
           <Slogan>Trading a desk for a passion.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/morrisonak">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/justin-morrison-533b4155/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="#">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
